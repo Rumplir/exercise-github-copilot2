@@ -44,7 +44,7 @@ Neste exercício, você irá:
 
 4. Clique em **Iniciar Exercício**. Siga as instruções passo a passo, e o feedback será fornecido conforme você avança.
 
-   <a id="start-exercise" href="https://github.com/Rumplir/exercise-github-copilot/issues/1" href="https://github.com/andrefontourainvillia/invillia-getting-started-with-github-copilot/issues/1">
+   <a id="start-exercise" href="https://github.com/Rumplir/exercise-github-copilot2/issues/1" href="https://github.com/Rumplir/exercise-github-copilot/issues/1" href="https://github.com/andrefontourainvillia/invillia-getting-started-with-github-copilot/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
